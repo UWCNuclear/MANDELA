@@ -14,4 +14,6 @@ Ultimaker Cura
 
 Ubuntu subsystem with ROOT, GRSISORT, and Geant4: https://github.com/UWCNuclear/UbuntuSetUp
 
+Plastic scillators with Geant4 and York: https://github.com/UWCNuclear/Geant4Scintillator
+
 
