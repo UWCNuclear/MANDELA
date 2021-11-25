@@ -10,7 +10,7 @@ Siemens NX
 
 Ultimaker Cura
 
-# Analysis
+# Data Analysis and Simulations
 
 Ubuntu subsystem with ROOT, GRSISORT, and Geant4: https://github.com/UWCNuclear/UbuntuSetUp
 
