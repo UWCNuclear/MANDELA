@@ -1,3 +1,5 @@
+https://nuclear.uwc.ac.za/index.php/detector-laboratory/
+
 # Particle-gamma-gamma coincidences
 
 Wavedump for CAEN DT5742 digitizer: https://github.com/UWCNuclear/CAENDT5742
