@@ -1,4 +1,4 @@
-*Overview of MANDELA:* https://nuclear.uwc.ac.za/index.php/detector-laboratory/
+**Overview of MANDELA:*** https://nuclear.uwc.ac.za/index.php/detector-laboratory/
 
 # Particle-gamma-gamma coincidences
 
