@@ -8,9 +8,7 @@ Zeus for CAEN SiPM power supply
 
 # 3D Modeling and Printing
 
-Siemens NX
-
-Ultimaker Cura
+Siemens NX and Ultimaker Cura: https://github.com/UWCNuclear/3D-Printing
 
 # Data Analysis and Simulations
 
