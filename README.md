@@ -12,7 +12,7 @@ Siemens NX and Ultimaker Cura: https://github.com/UWCNuclear/3D-Printing
 
 # Data Analysis and Simulations
 
-Ubuntu subsystem with ROOT, GRSISORT, and Geant4: https://github.com/UWCNuclear/UbuntuSetUp
+Ubuntu subsystem on Windows with ROOT, GRSISort, and Geant4: https://github.com/UWCNuclear/UbuntuSetUp
 
 Plastic scintillators with Geant4 and the Univeristy of York: https://github.com/UWCNuclear/Geant4Scintillator
 
