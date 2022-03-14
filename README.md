@@ -2,7 +2,7 @@
 
 # Particle-gamma-gamma coincidences
 
-XIA Pixie-16 Module: https://github.com/UWCNuclear/xia4MANDELA
+XIA Pixie-16 Module: https://github.com/UWCNuclear/xia4mandela
 
 Wavedump for CAEN DT5742 digitizer: https://github.com/UWCNuclear/CAENDT5742
 
