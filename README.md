@@ -2,6 +2,8 @@
 
 # Particle-gamma-gamma coincidences
 
+XIA Pixie-16 Module: https://github.com/UWCNuclear/xia4MANDELA
+
 Wavedump for CAEN DT5742 digitizer: https://github.com/UWCNuclear/CAENDT5742
 
 Zeus for CAEN SiPM power supply
