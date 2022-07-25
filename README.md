@@ -6,6 +6,8 @@ XIA Pixie-16 digitizer: https://github.com/UWCNuclear/xia4mandela
 
 Wavedump for CAEN DT5742 digitizer: https://github.com/UWCNuclear/CAENDT5742
 
+Gamma-gamma coincidence practical: https://github.com/UWCNuclear/GammaCoincidence
+
 # 3D Modeling and Printing
 
 Siemens NX and Ultimaker Cura: https://github.com/UWCNuclear/3D-Printing
